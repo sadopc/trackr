@@ -2,7 +2,7 @@
 
 A beautiful terminal-based time tracker built with Go and [Bubble Tea](https://github.com/charmbracelet/bubbletea). Track your work, manage projects, view reports, and run Pomodoro sessions — all without leaving the terminal.
 
-![Dashboard](assets/1.png)
+![Demo](assets/demo.gif)
 
 ## Features
 
@@ -19,9 +19,9 @@ A beautiful terminal-based time tracker built with Go and [Bubble Tea](https://g
 
 ## Screenshots
 
-| Projects | Reports | Pomodoro | Settings |
-|----------|---------|----------|----------|
-| ![Projects](assets/2.png) | ![Reports](assets/3.png) | ![Pomodoro](assets/4.png) | ![Settings](assets/5.png) |
+| Dashboard | Projects | Reports | Pomodoro | Settings |
+|-----------|----------|---------|----------|----------|
+| ![Dashboard](assets/1.png) | ![Projects](assets/2.png) | ![Reports](assets/3.png) | ![Pomodoro](assets/4.png) | ![Settings](assets/5.png) |
 
 ## Install
 
